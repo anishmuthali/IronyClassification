@@ -1,0 +1,3 @@
+*.pickle
+ML_Models/embeddings
+ML_Models/models
