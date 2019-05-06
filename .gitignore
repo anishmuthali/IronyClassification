@@ -4,4 +4,3 @@ ML_Models/models
 ML_Models/.ipynb_checkpoints/
 Testing/.ipynb_checkpoints/
 Testing/embeddings/
-*.h5
